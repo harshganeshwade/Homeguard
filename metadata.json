@@ -1,0 +1,6 @@
+{
+  "name": "HomeGuard — Cyber Attack Graph & Risk Prediction System",
+  "description": "HomeGuard — Cyber Attack Graph & Risk Prediction System featuring Cytoscape.js visualization, server-side Gemini AI brief & threat copilot, Random Forest risk diagnostics, and human-in-the-loop remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
